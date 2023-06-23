@@ -22,14 +22,14 @@ Electric cars must be charged in order to be used. But due to the lack of availa
 
 ## Features
 
-Supports Two Types of users Providers and Consumers
-Providers can add their charging Stations 
-Providers can manage their orders
-Consumers can Book a Station
-Consumers can manage their orders
+- Supports Two Types of users Providers and Consumers
+- Providers can add their charging Stations 
+- Providers can manage their orders
+- Consumers can Book a Station
+- Consumers can manage their orders
 
 ## Credits
-<div class="photos">
+
 <a href="https://github.com/KhalidAli9">
   <img href="https://avatars.githubusercontent.com/u/132434196?v=4">
 </a>
@@ -39,4 +39,4 @@ Consumers can manage their orders
 <a href="https://github.com/herz1291">
   <img href="https://avatars.githubusercontent.com/u/104277320?v=4">
 </a>
-</div>
+
