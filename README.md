@@ -13,7 +13,7 @@ Electric cars must be charged in order to be used. But due to the lack of availa
 ## Tech/framework used
 
 ### Development
-[![Development](https://skillicons.dev/icons?i=dart&theme=dark)](https://dart.dev)[![Development](https://skillicons.dev/icons?i=flutter&theme=dark)](https://flutter.dev)[![Development](https://skillicons.dev/icons?i=postman&theme=dark)](https://www.postman.com)[![Development](https://skillicons.dev/icons?i=supabase&theme=dark)](https://supabase.com)[![Development](https://skillicons.dev/icons?i=vscode&theme=dark)](https://code.visualstudio.com)[![Development](https://skillicons.dev/icons?i=github&theme=dark)](https://github.com)
+[![Development](https://skillicons.dev/icons?i=dart&theme=dark)](https://dart.dev)&nbsp;[![Development](https://skillicons.dev/icons?i=flutter&theme=dark)](https://flutter.dev)&nbsp;[![Development](https://skillicons.dev/icons?i=postman&theme=dark)](https://www.postman.com)&nbsp;[![Development](https://skillicons.dev/icons?i=supabase&theme=dark)](https://supabase.com)&nbsp;[![Development](https://skillicons.dev/icons?i=vscode&theme=dark)](https://code.visualstudio.com)&nbsp;[![Development](https://skillicons.dev/icons?i=github&theme=dark)](https://github.com)
 
 ### Design
 [<img src="https://avatars.githubusercontent.com/u/58453772?s=280&v=4" width="50px;"/>](https://rive.app) [![My Skills](https://skillicons.dev/icons?i=figma&theme=dark)](https://www.figma.com)
