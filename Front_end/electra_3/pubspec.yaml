@@ -1,0 +1,33 @@
+name: electra
+description: A new Flutter project.
+publish_to: "none"
+version: 0.1.0
+
+environment:
+  sdk: ">=2.19.6 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  http: ">=0.13.6 <1.0.0"
+  dotted_border: ^2.0.0+3
+  image_picker: ^0.8.8
+  line_icons: ^2.0.1
+  geolocator: ^9.0.2
+  url_launcher: ^6.1.11
+  get_storage: ^2.1.1
+  rive: ^0.11.3
+  font_awesome_flutter: ^10.4.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+  - assets/
+  - assets/images/
+  - assets/icons/
