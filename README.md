@@ -15,7 +15,7 @@ Electric cars must be charged in order to be used. But due to the lack of availa
 ### Development
 [![My Skills](https://skillicons.dev/icons?i=dart,flutter,figma,postman,supabase,vscode,github&theme=dark)](https://skillicons.dev)
 ### Design
-[<img src="https://cdn.dribbble.com/users/3011546/avatars/normal/d91f767e2d44f757002bef16b733a3ad.png?1575675105" width="40px;"/>](https://rive.app)
+[<img src="https://mir-s3-cdn-cf.behance.net/projects/404/1b0899168072773.64346e5027ef3.jpg" width="40px;"/>](https://rive.app) [![My Skills](https://skillicons.dev/icons?i=figma&theme=dark)](https://www.figma.com)
 ## Features
 
 - Supports Two Types of users Providers and Consumers
