@@ -10,7 +10,7 @@
 
 ## Motivation
 
-Electric cars must be charged in order to be used. But due to the lack of availability of charging platforms, we present Electra App to relieve travelers from the concern of not having a source of charging. By displaying the nearest charging platforms providers in the area in which they are located.
+Electric cars must be charged in order to be used. But due to the lack of availability of charging platforms, we present Electra App to relieve travelers from the concern of not having a source of charging. By displaying the nearest charging platform providers in the area in which they are located.
 
 ## Screenshots
 
@@ -18,7 +18,7 @@ Electric cars must be charged in order to be used. But due to the lack of availa
 
 ## Tech/framework used
 
-[![My Skills](https://skillicons.dev/icons?i=dart,flutter,figma,postman,supabase,vscode&theme=dark&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=dart,flutter,figma,postman,supabase,vscode,github&theme=dark)](https://skillicons.dev)
 
 ## Features
 
@@ -27,15 +27,6 @@ Providers can add their charging Stations
 Providers can manage their orders
 Consumers can Book a Station
 Consumers can manage their orders
-
-.photos{
-display: inline-block;
-position: relative;
-width: 200px;
-height: 200px;
-overflow: hidden;
-border-radius: 50%;
-}
 
 ## Credits
 <div class="photos">
