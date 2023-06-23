@@ -30,6 +30,14 @@ Electric cars must be charged in order to be used. But due to the lack of availa
 
 ## Credits
 
+[<img src="https://github.com/Shatha88.png" width="60px;"/><br /><sub><ahref="https://github.com/Shatha88">Shatha88</a></sub>](https://github.com/Shatha88)
+
+[<img src="https://github.com/KhalidAli9.png" width="60px;"/><br /><sub><ahref="https://github.com/KhalidAli9">KhalidAli9</a></sub>](https://github.com/KhalidAli9)
+
+[<img src="https://github.com/Khalidsaadhabash.png" width="60px;"/><br /><sub><ahref="https://github.com/Khalidsaadhabash">Khalidsaadhabash</a></sub>](https://github.com/Khalidsaadhabash)
+
+[<img src="https://github.com/herz1291.png" width="60px;"/><br /><sub><ahref="https://github.com/herz1291">herz1291</a></sub>](https://github.com/herz1291)
+
 <a href="https://github.com/KhalidAli9">
   <img href="https://avatars.githubusercontent.com/u/132434196?v=4">
 </a>
