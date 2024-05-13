@@ -1,7 +1,7 @@
 # Full Stack: Electra
 
 - [Motivation](#Motivation)
-- [Tech/Framework](#Tech)
+- [Tech/Framework](#Tech/Framework)
 - [Features](#Features)
 - [Credits](#Credits)
 
