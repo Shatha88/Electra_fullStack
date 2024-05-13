@@ -1,16 +1,16 @@
 # Full Stack: Electra
 
-- [Motivation](#Motivation)
-- [Tech/framework](#Tech/framework)
-- [Features](#Features)
-- [Credits](#credits)
+- [Motivation](##Motivation)
+- [Tech/Framework](##Tech/Framework)
+- [Features](##Features)
+- [Credits](##Credits)
 
 ## Motivation
 
 Electric cars must be charged in order to be used. But due to the lack of availability of charging platforms, we present Electra App to relieve travelers from the concern of not having a source of charging. By displaying the nearest charging platform providers in the area in which they are located.
 
 
-## Tech/framework
+## Tech/Framework
 
 ### Development
 [![Development](https://skillicons.dev/icons?i=dart&theme=dark)](https://dart.dev)&nbsp;&nbsp;[![Development](https://skillicons.dev/icons?i=flutter&theme=dark)](https://flutter.dev)&nbsp;&nbsp;[![Development](https://skillicons.dev/icons?i=postman&theme=dark)](https://www.postman.com)&nbsp;&nbsp;[![Development](https://skillicons.dev/icons?i=supabase&theme=dark)](https://supabase.com)&nbsp;&nbsp;[![Development](https://skillicons.dev/icons?i=vscode&theme=dark)](https://code.visualstudio.com)&nbsp;&nbsp;[![Development](https://skillicons.dev/icons?i=github&theme=dark)](https://github.com)
